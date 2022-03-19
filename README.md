@@ -19,7 +19,7 @@ To get started,
 - Projects (Optional)
 - Final Design
 
-## Additional resources
+## Additional Resources
 
 ## Student Works
 - ITEC101 Section 101 (April, 2022)
