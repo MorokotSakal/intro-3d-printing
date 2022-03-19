@@ -4,9 +4,12 @@ by Morokot Sakal
 ## Overview
 
 ## Learning Objectives
-
+1. learn to use Tinkercad software for 3D modeling
 
 ## Activities
+To get started, 
+1. Create account at Tinkercad
+2. Go to 'Learn'
 
 - Starters (All required)
 - Lessons
@@ -16,7 +19,9 @@ by Morokot Sakal
 - Projects (Optional)
 - Final Design
 
+## Additional resources
 
 ## Student Works
-- ITEC101 (April, 2022)
+- ITEC101 Section 101 (April, 2022)
+- ITEC101 Section 001 (April, 2022)
 - HS Robotics (January, 2022)
