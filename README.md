@@ -24,4 +24,4 @@ To get started,
 ## Student Works
 - ITEC101 Section 101 (April, 2022)
 - ITEC101 Section 001 (April, 2022)
-- HS Robotics (January, 2022)
+- [HS Robotics (January, 2022)](./202201-HSRobotics/README.md
