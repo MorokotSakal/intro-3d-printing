@@ -3,7 +3,7 @@ by Morokot Sakal
 
 ## Overview
 
-## Learning Objectives
+### Learning Objectives
 1. learn to use Tinkercad software for 3D modeling
 
 ## Activities
