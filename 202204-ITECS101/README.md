@@ -1,4 +1,4 @@
-# HS Robotics (January, 2022)
+# ITEC101 Section 101 (April, 2022)
 ![](./img/1.png)
 ![](./img/2.png)
 ![](./img/3.png)
