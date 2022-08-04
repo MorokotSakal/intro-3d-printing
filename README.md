@@ -51,8 +51,8 @@ In this short online course, students will learn about the best practices for de
 
 Start learning [HERE](https://learn.weareprintlab.com/resource/designing-for-3d-printing/)
 
-### 2.4. Slicing for 3D Printing (In development)
-Check again later
+### 2.4. Slicing for 3D Printing
+In preparation, please check again later
 
 ### 2.5. Sample Project 
 Ask to student to follow some example projects in the following pages:
