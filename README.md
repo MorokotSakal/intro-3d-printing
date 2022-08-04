@@ -70,7 +70,8 @@ Reference for Ideas:
 
 ## 3. Additional Resources
 - [DIY Tinkercad Workshop](https://drive.google.com/drive/u/0/folders/1U6Xe_eIO7dcKPv1zdckfAvzl836fKFEZ)
-- [3D Printing Guide for Teachers](https://classroom.weareprintlab.com/courses/enrolled/280609)
+- [Learn 3D design and printing](http://www.olimpicolearning.org/curriculum-3d.html)
+- - [3D Printing Guide for Teachers](https://classroom.weareprintlab.com/courses/enrolled/280609)
 - [Learning 3D Printers: Video Series](https://1stmakerspace.com/3d-printer-resources)
 
 ## Student Works
