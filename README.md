@@ -1,8 +1,8 @@
-# Intro to 3D Printing
+# Intro to 3D Design & Printing
 by Morokot Sakal
 
 ## 1. Overview
-This repo contains an "Intro to 3D Printing" lesson plans for STEM/STEAM classes using Tinkercad.
+This repo contains an "Intro to 3D Design & Printing" lesson plans for STEM/STEAM classes using Tinkercad.
 
 ### 1.1. Learning Objectives
 1. Learn the basic of 3D printing technology
