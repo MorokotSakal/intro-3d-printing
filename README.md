@@ -42,8 +42,26 @@ Ask students to complete the lessons below:
   - Align it
   - Creating hole
 - Jewelry (Choose 3 from below)
+  - Basic Ring
+  - Simple Heart Ring
+  - Diamon Ring
+  - Cylinder Earrings
+  - Twist Earrings
 - Buttons (Choose 3 from below)
+  - Basic Button
+  - Duffel Button
+  - Flower Button
+  - Heart Button
+  - Skull Button
 - Gadgets (Choose 3 from below)
+  - Saw Shaped Wrench
+  - Make a Gear in TinkerCad
+  - Minecraft Party Glasses
+  - Chess Pawn
+  - Die From Scratch
+  - Key Ring Letters
+  - Name That Keychain
+  - Luggage Tag
 
 ### 2.3. Designing for 3D Printing 
 In this short online course, students will learn about the best practices for designing in Tinkercad software, specifically for 3D printing. The course is video based and goes over 10 essential tips to achieving good quality prints on FFF (Fused Filament Fabrication) 3D printers - from overhanging features and bridges to wall thicknesses and tolerances.
