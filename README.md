@@ -66,7 +66,7 @@ Reference for Design Ideas:
 - Design Ideas using TinkerCad by 1 Day 1 CAD (Click [HERE](https://www.youtube.com/c/1DAY1CAD/videos))
 - Instructables Ideas (Click [HERE](https://www.instructables.com/howto/tinkercad/))
 
-## 4. Previous Student Works
+## 3. Previous Student Works
 - [ITEC101 Section 101 (Spring, 2022)](./202204-ITECS101/README.md)
 - [HS Robotics (January, 2022)](./202201-HSRobotics/README.md)
 
